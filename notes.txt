@@ -1,1 +1,2 @@
 This is my sample project.
+Git helps track project changes.
