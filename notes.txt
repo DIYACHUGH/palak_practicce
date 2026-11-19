@@ -1,3 +1,4 @@
 This is my sample project.
 Git helps track project changes.
 This is a temporary change for Git restore practice.
+Feature update: Learning Git branching and merging.
